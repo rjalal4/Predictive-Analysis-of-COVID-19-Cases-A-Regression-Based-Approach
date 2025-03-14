@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-COVID-19-Cases-A-Regression-Based-Approach
+This project explores the relationships between confirmed COVID-19 cases, recoveries, new cases, and deaths across multiple countries using regression models. By applying linear and multiple linear regression techniques, the study aims to assess the predictive power of different factors in understanding the progression of the pandemic.
